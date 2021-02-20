@@ -10,5 +10,5 @@ if a >= 70 and b < 70:
 if a <70 and b>=70:
 	print("Anda harus mengulangi ujian teori.")
 
-if a <70 and b < 70: 
+if a <70 and b <70: 
 	print ("Anda harus mengulangi ujian teori dan praktek.")
